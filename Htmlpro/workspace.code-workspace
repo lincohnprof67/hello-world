@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "../javapro/DepartmentStore"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../javapro"
+		},
+		{
+			"path": "../javaassign"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin",
+		"git.ignoreLimitWarning": true,
+		"liveServer.settings.multiRootWorkspaceName": "Htmlpro"
+	}
+}
